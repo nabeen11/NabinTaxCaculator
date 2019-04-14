@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NabinTaxCalculator</string>
+    <string name="totaltx">Total Tax :</string>
+    <string name="hint">Enter your monthly salary</string>
+    <string name="hint2">Per Year Salary : </string>
+    <string name="calc">Calculator</string>
+</resources>
